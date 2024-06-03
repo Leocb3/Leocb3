@@ -1,6 +1,4 @@
-# Olá, seja bem vindo ao meu pefil!
-# Hello, welcome to my profile!
-# Bonjour, bienvenue sur mon profil!
+# Olá, seja bem-vindo ao meu perfil!😀👋
 
 <!--
 **Leocb3/Leocb3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
