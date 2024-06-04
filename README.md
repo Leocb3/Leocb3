@@ -10,6 +10,7 @@
 - Python
 - HTML/CSS
 - Go (GoLang)
+- Java
 - SQL
 - Prolog
 
