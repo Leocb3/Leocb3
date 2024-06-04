@@ -8,6 +8,7 @@
 
 📊 Linguagens que eu tenho experiência:
 - Python
+- HTML/CSS
 - Go (GoLang)
 - SQL
 - Prolog
