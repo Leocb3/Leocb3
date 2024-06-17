@@ -6,11 +6,12 @@
 - 🎮 Futuro Game Dev
 - 🎬 Criador de Conteúdo pro YouTube (quando dá tempo)
 
-📊 Linguagens que eu tenho experiência:
+📊 Linguagens que eu já utilizei:
 - Python
 - HTML/CSS
 - Go (GoLang)
 - Java
+- JavaScript
 - SQL
 - Prolog
 
