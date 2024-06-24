@@ -22,7 +22,7 @@
 
 ### 🎯 Projetos Anteriores
 
-🎴 CardTopia (2023) - 🥈 2º Lugar Distrital (Game Jam SEBRAE Inova 2023)
+🎴 CardTopia (2023) - 🥈 Top 2 Distrital (Game Jam SEBRAE Inova 2023)
 - Link do Jogo: https://guilhermels.itch.io/cardtopia
 - Link do Repositório: https://github.com/HenriqueMorae/CardTopia
 
