@@ -8,10 +8,10 @@
 
 📊 Linguagens que eu já utilizei:
 - Python
+- JavaScript
+- Java
 - HTML/CSS
 - Go (GoLang)
-- Java
-- JavaScript
 - SQL
 - Prolog
 
