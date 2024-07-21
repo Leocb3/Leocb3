@@ -8,7 +8,7 @@
 
 📊 Linguagens que eu já utilizei:
 - Python
-- JavaScript
+- JavaScript/Node.js
 - Java
 - HTML/CSS
 - Go (GoLang)
