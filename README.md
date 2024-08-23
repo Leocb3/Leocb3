@@ -8,11 +8,11 @@
 
 📊 Linguagens que eu já utilizei:
 - Python
-- JavaScript/React.js/Node.js
 - Java
 - HTML/CSS
-- Go (GoLang)
 - SQL
+- JavaScript (React.js/Node.js)
+- Go (GoLang)
 - Prolog
 
 🗣 Idiomas que eu falo:
