@@ -4,7 +4,7 @@
 🧐 Quem sou eu?
 - 🖥 Estudante de Ciência da Computação no CEUB (5º Semestre)
 - 🎮 Futuro Game Dev
-- 🎬 Criador de Conteúdo pro YouTube (quando dá tempo)
+- 🎬 Criador de Conteúdo pro YouTube
 
 📊 Linguagens que eu já utilizei:
 - Python
