@@ -10,8 +10,8 @@
 - Python
 - Java
 - HTML/CSS
+- JavaScript
 - SQL
-- JavaScript (React.js/Node.js)
 - Go (GoLang)
 - Prolog
 
