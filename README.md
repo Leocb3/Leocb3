@@ -9,9 +9,9 @@
 📊 Linguagens que eu já utilizei:
 - Python
 - Java
+- SQL
 - HTML/CSS
 - JavaScript
-- SQL
 - Go (GoLang)
 - Prolog
 
