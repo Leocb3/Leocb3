@@ -26,7 +26,7 @@
 - Link do Jogo: https://guilhermels.itch.io/cardtopia
 - Link do Repositório: https://github.com/HenriqueMorae/CardTopia
 
-   Pigeon Unleashed (2024) - (Game Jam Plus 24/25)
+🕊 Pigeon Unleashed (2024) - (Game Jam Plus 24/25)
 - Link do Jogo: https://leocb3.itch.io/pigeon-unleashed
 
 ---
