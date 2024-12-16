@@ -2,7 +2,7 @@
 ## 😅 Léo Chung pros amigos, 😎 username Leocb3
 
 🧐 Quem sou eu?
-- 🖥 Estudante de Ciência da Computação no CEUB (5º Semestre)
+- 🖥 Estudante de Ciência da Computação no CEUB (6º Semestre)
 - 🎮 Game Dev Iniciante
 - 🎬 Criador de Conteúdo pro YouTube
 
