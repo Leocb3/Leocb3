@@ -8,9 +8,9 @@
 
 📊 Linguagens que eu já utilizei:
 - Python
+- SQL
 - C#
 - Java
-- SQL
 - HTML/CSS
 - JavaScript
 - Go (GoLang)
