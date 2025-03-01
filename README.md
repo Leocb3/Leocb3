@@ -8,12 +8,12 @@
 
 📊 Linguagens que eu já utilizei:
 - Python
-- SQL
 - C#
 - Java
+- Go (GoLang)
 - HTML/CSS
 - JavaScript
-- Go (GoLang)
+- SQL
 - Prolog
 
 🗣 Idiomas que eu falo:
