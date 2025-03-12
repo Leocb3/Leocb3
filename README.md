@@ -23,7 +23,7 @@
 
 ## 🎯 Projetos Atuais
 
-🍭 Sweet Funeral (2024) - 🏅 Semi-Finalista Continental (Game Jam Plus 24/25)
+🍭 Sweet Funeral (2024) - 🏅 Semi-Finalista (Game Jam Plus 24/25)
 - Link do Jogo: https://jakliness.itch.io/sweet-funeral
 
 ## 🎯 Projetos Anteriores
@@ -32,7 +32,7 @@
 - Link do Jogo: https://guilhermels.itch.io/cardtopia
 - Link do Repositório: https://github.com/HenriqueMorae/CardTopia
 
-🕊 Pigeon Unleashed (2024) - 🏅 Participante Regional (Game Jam Plus 24/25)
+🕊 Pigeon Unleashed (2024) - 🏅 Participante (Game Jam Plus 24/25)
 - Link do Jogo: https://leocb3.itch.io/pigeon-unleashed
 
 <!--
