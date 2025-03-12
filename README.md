@@ -21,6 +21,11 @@
 - Inglês (Avançado)
 - Francês (Fluente - Delf B2)
 
+## 🎯 Projetos Atuais
+
+🍭 Sweet Funeral (2024) - 🏅 Semi-Finalista (Game Jam Plus 24/25)
+- Link do Jogo: https://jakliness.itch.io/sweet-funeral
+
 ### 🎯 Projetos Anteriores
 
 🎴 CardTopia (2023) - 🥈 2º Lugar Distrital (Game Jam SEBRAE Inova 2023)
