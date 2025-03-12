@@ -4,7 +4,7 @@
 🧐 Quem sou eu?
 - 🖥 Estudante de Ciência da Computação no CEUB (6º Semestre)
 - 🎮 Game Dev Iniciante
-- 🎬 Criador de Conteúdo pro YouTube
+- 🎬 Criador de Conteúdo pro YouTube: https://www.youtube.com/@cafegalactic
 
 📊 Linguagens que eu já utilizei:
 - Python
