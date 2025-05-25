@@ -9,10 +9,10 @@
 📊 Linguagens que eu já utilizei:
 - Python
 - C#
-- Java
-- Go (GoLang)
 - HTML/CSS
 - JavaScript
+- Go (GoLang)
+- Java
 - SQL
 - Prolog
 
