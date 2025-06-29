@@ -23,7 +23,7 @@
 
 ## 🎯 Projetos Atuais
 
-🍭 Sweet Funeral (2024~) - 🏅 Finalista (Game Jam Plus 24/25)
+🍭 Sweet Funeral (2024~) -🏅 Finalista (Game Jam Plus 24/25)
 - Link do Jogo: https://jakliness.itch.io/sweet-funeral
 
 ## 🎯 Projetos Anteriores
