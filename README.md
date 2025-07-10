@@ -2,8 +2,8 @@
 ## 😅 Léo Chung pros amigos, 😎 username Leocb3
 
 🧐 Quem sou eu?
-- 🖥 Estudante de Ciência da Computação no CEUB (6º Semestre)
-- 🎮 Game Dev Iniciante
+- 🖥 Estudante de Ciência da Computação no CEUB (7º Semestre)
+- 🎮 Game Dev em Ascensão
 - 🎬 Criador de Conteúdo pro YouTube: https://www.youtube.com/@cafegalactic
 
 📊 Linguagens que eu já utilizei:
@@ -13,6 +13,7 @@
 - HTML/CSS
 - Go (GoLang)
 - Java
+- C
 - SQL
 - Prolog
 
@@ -23,7 +24,7 @@
 
 ## 🎯 Projetos Atuais
 
-🍭 Sweet Funeral (2024~) -🏅 Finalista (Game Jam Plus 24/25)
+🍭 Sweet Funeral (2024~) -🏅 Finalista, Top 3 DF e Top 20 Brasil (Game Jam Plus 24/25)
 - Link do Jogo: https://jakliness.itch.io/sweet-funeral
 
 ## 🎯 Projetos Anteriores
