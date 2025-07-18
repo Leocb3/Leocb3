@@ -29,12 +29,12 @@
 
 ## 🎯 Projetos Anteriores
 
+🕊 Pigeon Unleashed (2024) - 🏅 Participante (Game Jam Plus 24/25)
+- Link do Jogo: https://leocb3.itch.io/pigeon-unleashed
+
 🎴 CardTopia (2023) - 🥈 2º Lugar (Game Jam SEBRAE Inova 2023)
 - Link do Jogo: https://guilhermels.itch.io/cardtopia
 - Link do Repositório: https://github.com/HenriqueMorae/CardTopia
-
-🕊 Pigeon Unleashed (2024) - 🏅 Participante (Game Jam Plus 24/25)
-- Link do Jogo: https://leocb3.itch.io/pigeon-unleashed
 
 <!--
 
