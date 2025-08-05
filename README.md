@@ -8,12 +8,11 @@
 
 📊 Linguagens que eu já utilizei:
 - Python
-- C#
 - JavaScript
 - HTML/CSS
+- C#
 - Go (GoLang)
 - Java
-- C
 - SQL
 - Prolog
 
