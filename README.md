@@ -27,7 +27,7 @@
 - Link do Jogo: https://jakliness.itch.io/sweet-funeral
 
 🖥️ Syntax Saga (2025) - 📔 Projeto Integrador III (CEUB)
-- Link do Jogo: 🛠️ *Em desenvolvimento*
+- Link do Jogo: 🛠️ Em desenvolvimento
 
 ## 🎯 Projetos Anteriores
 
