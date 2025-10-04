@@ -23,11 +23,11 @@
 
 ## 🎯 Projetos Atuais
 
-🍭 Sweet Funeral (2024~) -🏅 Finalista, Top 3 DF e Top 20 Brasil (Game Jam Plus 24/25)
-- Link do Jogo: https://jakliness.itch.io/sweet-funeral
-
 🖥️ Syntax Saga (2025) - 📔 Projeto Integrador III (CEUB)
 - Link do Jogo: 🛠️ Em desenvolvimento
+
+🍭 Sweet Funeral (2024~) -🏅 Finalista, Top 3 DF e Top 20 Brasil (Game Jam Plus 24/25)
+- Link do Jogo: https://jakliness.itch.io/sweet-funeral
 
 ## 🎯 Projetos Anteriores
 
