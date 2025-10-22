@@ -26,10 +26,10 @@
 🖥️ Syntax Saga (2025) - 📔 Projeto Integrador III (CEUB)
 - Link do Jogo: 🛠️ Em desenvolvimento
 
-🍭 Sweet Funeral (2024~) -🏅 Finalista, Top 3 DF e Top 20 Brasil (Game Jam Plus 24/25)
-- Link do Jogo: https://jakliness.itch.io/sweet-funeral
-
 ## 🎯 Projetos Anteriores
+
+🍭 Sweet Funeral (2024-2025) -🏅 Finalista, Top 3 DF e Top 20 Brasil (Game Jam Plus 24/25)
+- Link do Jogo: https://jakliness.itch.io/sweet-funeral
 
 🕊 Pigeon Unleashed (2024) - 🏅 Participante (Game Jam Plus 24/25)
 - Link do Jogo: https://leocb3.itch.io/pigeon-unleashed
