@@ -8,6 +8,7 @@
 
 📊 Linguagens que eu já utilizei:
 - Python
+- Lua
 - JavaScript
 - HTML/CSS
 - C#
