@@ -28,7 +28,7 @@
 - Link do Jogo: https://leocb3.itch.io/aquarelle-warriors
 
 🖥️ Syntax Saga (2025) - 📔 Projeto Integrador III (CEUB)
-- Link do Jogo: 🛠️ Em desenvolvimento
+- Link do Jogo: https://leocb3.itch.io/syntax-saga
 
 ## 🎯 Projetos Anteriores
 
