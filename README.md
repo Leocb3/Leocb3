@@ -32,7 +32,7 @@
 
 ## 🎯 Projetos Anteriores
 
-🍭 Sweet Funeral (2024-2025) -🏅 Finalista, Top 3 DF e Top 20 Brasil (Game Jam Plus 24/25)
+🍭 Sweet Funeral (2024-2025) -🏅 Finalista (Game Jam Plus 24/25)
 - Link do Jogo: https://jakliness.itch.io/sweet-funeral
 
 🕊 Pigeon Unleashed (2024) - 🏅 Participante (Game Jam Plus 24/25)
