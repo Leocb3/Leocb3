@@ -9,9 +9,9 @@
 📊 Linguagens que eu já utilizei:
 - Python
 - Lua
+- C#
 - JavaScript
 - HTML/CSS
-- C#
 - Go (GoLang)
 - Java
 - SQL
