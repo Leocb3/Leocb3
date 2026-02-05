@@ -24,7 +24,7 @@
 
 ## 🎯 Projetos Atuais
 
-🐠 Aquarelle Warriors (2025) - 🏅 Participante (Game Jam Plus 25/26)
+🐠 Aquarelle Warriors (2025) - 🏅 Semifinalista (Game Jam Plus 25/26)
 - Link do Jogo: https://leocb3.itch.io/aquarelle-warriors
 
 🖥️ Syntax Saga (2025) - 📔 Projeto Integrador III (CEUB)
