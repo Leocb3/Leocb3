@@ -27,16 +27,21 @@
 🐠 Aquarelle Warriors (2025) - 🏅 Semifinalista (Game Jam Plus 25/26)
 - Link do Jogo: https://leocb3.itch.io/aquarelle-warriors
 
-🖥️ Syntax Saga (2025) - 📔 Projeto Integrador III (CEUB)
-- Link do Jogo: https://leocb3.itch.io/syntax-saga
-
 ## 🎯 Projetos Anteriores
+
+🖥️ Syntax Saga (2025) - 📔 Projeto Acadêmico (PI III - CEUB)
+- Link do Jogo: https://leocb3.itch.io/syntax-saga
+- Link do Repositório: https://github.com/Joviviz/syntax-saga
 
 🍭 Sweet Funeral (2024-2025) -🏅 Finalista (Game Jam Plus 24/25)
 - Link do Jogo: https://jakliness.itch.io/sweet-funeral
 
 🕊 Pigeon Unleashed (2024) - 🏅 Participante (Game Jam Plus 24/25)
 - Link do Jogo: https://leocb3.itch.io/pigeon-unleashed
+
+🗓️ Calendar Quest (2024) - 📔 Projeto Acadêmico (PI I - CEUB)
+- Link do Jogo: https://leocb3.itch.io/calendar-quest
+- Link do Repositório: https://github.com/Leocb3/calendar-quest-pi-i-versao-final
 
 🎴 CardTopia (2023) - 🥈 2º Lugar (Game Jam SEBRAE Inova 2023)
 - Link do Jogo: https://guilhermels.itch.io/cardtopia
