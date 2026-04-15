@@ -24,7 +24,8 @@
 
 ## 🎯 Projetos Atuais
 
-...
+🐵 Bananabongô (2026) - 🏅 Semifinalista (Game Jam Plus 25/26)
+- Link do Jogo: https://bisc8gamedev.itch.io/bananabongo
 
 ## 🎯 Projetos Anteriores
 
