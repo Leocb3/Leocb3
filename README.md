@@ -1,55 +1,60 @@
-# Olá, seja bem-vindo ao meu perfil, meu nome é Leonardo!😀👋
-## 😅 Léo Chung pros amigos, 😎 username Leocb3
+# Olá, seja bem-vindo! Meu nome é Leonardo 👋
+### Game Developer (Produtor & Programador) | Criador de Conteúdo (Leocb3 / Léo Chung)
 
-🧐 Quem sou eu?
-- 🖥 Estudante de Ciência da Computação no CEUB (8º Semestre)
-- 🎮 Game Dev em Ascensão
-- 🎬 Criador de Conteúdo pro YouTube: https://www.youtube.com/@cafegalactic
+PT-BR | EN | FR (DELF B2)
 
-📊 Linguagens que eu já utilizei:
-- Python
-- Lua
-- C#
-- JavaScript
-- HTML/CSS
-- Go (GoLang)
-- Java
-- SQL
-- Prolog
+🧐 **Quem sou eu?**
+* 🖥️ **Acadêmico:** Estudante de Ciência da Computação no CEUB (8º Semestre) em Brasília.
+* 🎮 **Game Dev:** Focado no desenvolvimento de jogos e experiências interativas, com forte histórico em Game Jams (2x Finalista Global da Game Jam Plus).
+* 🎬 **Conteúdo:** Criador de conteúdo focado em vídeos de mistério e jogos diferenciados no canal [Café Galactic](https://www.youtube.com/@cafegalactic).
 
-🗣 Idiomas que eu falo:
-- Português (Nativo)
-- Inglês (Avançado)
-- Francês (Fluente - Delf B2)
+> "It's not easy to live your own way. You can't blame anyone but yourself." 📚🎻
+
+---
+
+📊 **Tecnologias & Linguagens:**
+Python | Lua | C# | JavaScript | HTML/CSS | Go (GoLang) | Java | SQL | Prolog
 
 ## 🎯 Projetos Atuais
 
-🐵 Bananabongô (2026) - 🏅 Finalista (Game Jam Plus 25/26)
-- Link do Jogo: https://bisc8gamedev.itch.io/bananabongo
+### 🐵 Bananabongô (2026) — 🏅 Finalista (Game Jam Plus 25/26)
+* **Papel:** [Produtor]
+* **Tecnologias:** [Unity / C#]
+* **Links:** [Jogar no Itch.io](https://bisc8gamedev.itch.io/bananabongo)
+
+---
 
 ## 🎯 Projetos Anteriores
 
-🐠 Aquarelle Warriors (2025) - 🏅 Semifinalista (Game Jam Plus 25/26)
-- Link do Jogo: https://leocb3.itch.io/aquarelle-warriors
+### 🐠 Aquarelle Warriors (2025) — 🏅 Semifinalista (Game Jam Plus 25/26)
+* **Papel:** [Produtor]
+* **Tecnologias:** [Unity / C#]
+* **Links:** [Jogar no Itch.io](https://leocb3.itch.io/aquarelle-warriors)
 
-🖥️ Syntax Saga (2025) - 📔 Projeto Acadêmico (PI III - CEUB)
-- Link do Jogo: https://leocb3.itch.io/syntax-saga
-- Link do Repositório: https://github.com/Joviviz/syntax-saga
+### 🖥️ Syntax Saga (2025) — 📔 Projeto Acadêmico (PI III - CEUB)
+* **Papel:** [Game Designer / Programador]
+* **Tecnologias:** [LÖVE (Love2D) / Lua]
+* **Links:** [Jogar no Itch.io](https://leocb3.itch.io/syntax-saga) | [Repositório Código-Fonte](https://github.com/Joviviz/syntax-saga)
 
-🍭 Sweet Funeral (2024-2025) -🏅 Finalista (Game Jam Plus 24/25)
-- Link do Jogo: https://jakliness.itch.io/sweet-funeral
+### 🍭 Sweet Funeral (2024-2025) — 🏅 Finalista (Game Jam Plus 24/25)
+* **Papel:** [Produtor / Programador]
+* **Tecnologias:** [Unity / C#]
+* **Links:** [Jogar no Itch.io](https://jakliness.itch.io/sweet-funeral)
 
-🕊 Pigeon Unleashed (2024) - 🏅 Participante (Game Jam Plus 24/25)
-- Link do Jogo: https://leocb3.itch.io/pigeon-unleashed
+### 🕊 Pigeon Unleashed (2024) — 🏅 Participante (Game Jam Plus 24/25)
+* **Papel:** [Produtor / Programador]
+* **Tecnologias:** [Godot / GDScript]
+* **Links:** [Jogar no Itch.io](https://leocb3.itch.io/pigeon-unleashed)
 
-🗓️ Calendar Quest (2024) - 📔 Projeto Acadêmico (PI I - CEUB)
-- Link do Jogo: https://leocb3.itch.io/calendar-quest
-- Link do Repositório: https://github.com/Leocb3/calendar-quest-pi-i-versao-final
+### 🗓️ Calendar Quest (2024) — 📔 Projeto Acadêmico (PI I - CEUB)
+* **Papel:** [Game Designer / Programador]
+* **Tecnologias:** [Pygame / Python, SQLite]
+* **Links:** [Jogar no Itch.io](https://leocb3.itch.io/calendar-quest) | [Repositório Código-Fonte](https://github.com/Leocb3/calendar-quest-pi-i-versao-final)
 
-🎴 CardTopia (2023) - 🥈 2º Lugar (Game Jam SEBRAE Inova 2023)
-- Link do Jogo: https://guilhermels.itch.io/cardtopia
-- Link do Repositório: https://github.com/HenriqueMorae/CardTopia
-
+### 🎴 CardTopia (2023) — 🥈 2º Lugar (Game Jam SEBRAE Inova 2023)
+* **Papel:** [Sound Designer / Assistente de Produção]
+* **Tecnologias:** [Unity / C#]
+* **Links:** [Jogar no Itch.io](https://guilhermels.itch.io/cardtopia) | [Repositório Código-Fonte](https://github.com/HenriqueMorae/CardTopia)
 <!--
 
 ---
