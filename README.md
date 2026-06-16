@@ -17,14 +17,16 @@ Python | Lua | C# | JavaScript | HTML/CSS | Go (GoLang) | Java | SQL | Prolog
 
 ## 🎯 Projetos Atuais
 
-### 🐵 Bananabongô (2026) — 🏅 Finalista (Game Jam Plus 25/26)
-* **Papel:** [Produtor]
-* **Tecnologias:** [Unity / C#]
-* **Links:** [Jogar no Itch.io](https://bisc8gamedev.itch.io/bananabongo)
+### ...
 
 ---
 
 ## 🎯 Projetos Anteriores
+
+### 🐵 Bananabongô (2026) — 🏅 Finalista (Game Jam Plus 25/26)
+* **Papel:** [Produtor]
+* **Tecnologias:** [Unity / C#]
+* **Links:** [Jogar no Itch.io](https://bisc8gamedev.itch.io/bananabongo)
 
 ### 🐠 Aquarelle Warriors (2025) — 🏅 Semifinalista (Game Jam Plus 25/26)
 * **Papel:** [Produtor]
