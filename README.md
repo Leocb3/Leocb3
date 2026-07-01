@@ -4,7 +4,7 @@
 PT-BR | EN | FR (DELF B2)
 
 🧐 **Quem sou eu?**
-* 🖥️ **Acadêmico:** Estudante de Ciência da Computação no CEUB (8º Semestre) em Brasília.
+* 🖥️ **Acadêmico:** Formando em Ciência da Computação no CEUB em Brasília.
 * 🎮 **Game Dev:** Focado no desenvolvimento de jogos e experiências interativas, com forte histórico em Game Jams (2x Finalista Global da Game Jam Plus).
 * 🎬 **Conteúdo:** Criador de conteúdo focado em vídeos de mistério e jogos diferenciados no canal [Café Galactic](https://www.youtube.com/@cafegalactic).
 
